@@ -1,17 +1,12 @@
 # Dev-Interview
 인터뷰 질문 모음.
 
-## CSS
-- [](./skill/css.md)
+1. [CSS](./skill/css.md)
 
-## HTML
-- [](./skill/html.md)
+2. [HTML](./skill/html.md)
 
-## general
-- [](./skill/general.md)
+3. [Common](./skill/general.md)
 
-## javacript
-- [](./skill/javscript.md)
+4. [javacript](./skill/javscript.md)
 
-## React
-- [](./skill/react.md)
+5. [React](./skill/react.md)
