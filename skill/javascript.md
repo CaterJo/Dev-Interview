@@ -1420,6 +1420,8 @@ console.log(employeeObject.name); // John
 ```
 
 
+
+
 ### What happens if you write constructor more than once in a class?
 생성자 메소드는 클래스에서 한번만 정의해야 합니다. 생성자 메소드를 여러번 쓰면 문법 오류가 발생합니다.
 
@@ -1436,6 +1438,7 @@ class Employee {
  var employeeObject = new Employee();
 
  console.log(employeeObject.name);
+ 
 ```
 
 ## What are the advantages of module loaders?
